@@ -1,0 +1,21 @@
+# Android Studio / IntelliJ IDEA
+*.iml
+.gradle
+/local.properties
+/.idea
+/.idea_modules
+/.gradle
+/captures
+/.externalNativeBuild
+/.cxx
+*.log
+*.apk
+*.ap_
+*.dex
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+build/
+*/build/
